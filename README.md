@@ -4,7 +4,10 @@
 
 ### Integrar JavaScript de forma interna
 
-~~~ <!DOCTYPE html>
+~~~ html
+./index.html
+
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -20,3 +23,8 @@
 </body>
 </html>
 ~~~
+
+### Integrar JavaScript de forma externa
+
+- Criar diretório ***src*** na raiz do projeto
+- Criar arquivo ***script.js*** na raiz do diretório ***src***
