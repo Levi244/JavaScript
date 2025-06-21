@@ -153,3 +153,31 @@ var MyName;
 var my_name;
 
 ~~~
+
+## TIPOS DE DADOS
+
+### Primitivos
+
+### Reatribuição de valor
+
+~~~ JavaScript
+./src/script.js
+
+// String
+var name = "Levi";
+var surname = "Ribeiro"
+
+// Number
+var age = 21;
+var weight = 69;
+
+// Boolean
+var active = true;
+var permission = false;
+
+// Undefined
+var contains;
+console.log(contains)
+
+
+~~~
