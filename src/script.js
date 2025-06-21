@@ -1,6 +1,4 @@
-
-var idade = 21;
-
-idade = 22
-
-console.log(idade);
+var age;
+var Age;
+var _age;
+var $age;
