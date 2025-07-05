@@ -179,5 +179,16 @@ var permission = false;
 var contains;
 console.log(contains)
 
+//Objects
+// - array
+
+var values = [1, "Alex", true, null];
+
+~~~
+
+### Não primitivos
+
+~~~ javascript
+./src/script.js
 
 ~~~
