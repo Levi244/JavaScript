@@ -179,16 +179,30 @@ var permission = false;
 var contains;
 console.log(contains)
 
-//Objects
-// - array
-
-var values = [1, "Alex", true, null];
-
 ~~~
 
 ### Não primitivos
 
 ~~~ javascript
 ./src/script.js
+
+// - array
+
+var values = [1, "Alex", true, null];
+
+// object literal literal
+
+var person = (name: "Levi", age:21);
+
+var person = {
+    name: "Levi"
+    age: 21
+};
+
+~~~
+
+//Fuction
+
+var message = fuction(){};
 
 ~~~
