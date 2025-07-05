@@ -201,8 +201,46 @@ var person = {
 
 ~~~
 
-//Fuction
+// Fuction
 
 var message = fuction(){};
 
 ~~~
+
+### Inspercionar Tipo
+
+~~~ JavaScript
+./src/script.js
+
+//typeof
+
+var age = 21;
+console.log(typeof age);
+
+~~~
+
+### Coerção de Tipo
+- Implícita
+
+~~~ JavaScript
+./src/script.js
+
+//typeof
+
+var agr = 21;
+var weight= "86.5";
+var result = age + weight;
+console.log(typeof result);
+
+~~~
+
+- Explícita 
+
+~~~ JavaScript
+./src/script.js
+
+// Number()
+var weight = Number ("86.5")
+console.log(typeof age);
+
+// 
